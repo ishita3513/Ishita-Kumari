@@ -31,4 +31,3 @@ I am a pre-final year undergraduate student of Computer Science and Engineering 
 <br/>
 
 
-**💻 Languages and Tools:**  
