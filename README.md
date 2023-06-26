@@ -11,8 +11,7 @@
 
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1aCUrqhQFYi-Y82kiVnrIv_3Vpf-joBq2/view?usp=sharing)
 
-## 🌐 Connect with me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishita3513) 
+- 🌐 Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishita3513) 
 
 ## My coding profiles:
 <a href="https://www.codechef.com/users/ishita_2648" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
