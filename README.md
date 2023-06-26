@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishita Kumari</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer & coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishita3513&label=Profile%20views&color=0e75b6&style=flat" alt="ishita3513" /> </p>
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h5 align="left">programming Languages </h5>
+<h3 align="left">programming Languages </h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -83,14 +83,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishita3513&rank=SECRET,S,AA,A,B" alt="ishita3513" /></a> </p>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishita3513&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=ishita3513&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishita3513&theme=onedark&hide_border=false)<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishita3513&show_icons=true&locale=en&layout=compact" alt="ishita3513" /></p>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
