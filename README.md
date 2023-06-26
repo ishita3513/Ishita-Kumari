@@ -16,8 +16,6 @@
 ## My coding profiles:
 <a href="https://www.codechef.com/users/ishita_2648" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ishi_kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-
-<!-- gfg -->
 <a href="https://auth.geeksforgeeks.org/user/ishitakumaripakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
 </p>
 
@@ -57,7 +55,6 @@
 </p>
 
 <h5>AI/ML</h5>
-
 <p align="left"> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
@@ -69,22 +66,21 @@
 
 <h5>Devops</h5>
 <p align="left">
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/WHRLQdbEXQ16/google-cloud" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="icons8-google-cloud-48.png" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 </p>
 
-<h5>Design</h5>
+<h5>Softwares </h5>
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
-<h5>Softwares </h5>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-#Github Trophies:
+## Github Trophies:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishita3513&rank=SECRET,S,AA,A,B" alt="ishita3513" /></a> </p>
 
