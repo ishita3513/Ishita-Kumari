@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **DSA and Web Technology**
 
-- 📫 How to reach me <a style="color:#02ccff" href="mailto:ishitakumaripakur@gmail.com">By Email</a>
+- 📫 How to reach me <a style="color:#02ccff" href="mailto:ishitakumari3513@gmail.com">By Email</a>
 
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1MexEfDxfCol18njT0Q87aKLuW4YkI5XZ/view?usp=sharing)
 
